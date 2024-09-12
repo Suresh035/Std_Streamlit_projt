@@ -1,0 +1,259 @@
+@charset "utf-8";
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+	box-sizing: border-box;
+	font-family: Roboto, "Roboto Black";
+}
+#wrap{
+	width:800px;
+	height:1000px;
+	background-color : #6BCAFF;
+	
+}form{
+	margin-left: 150px;
+
+}
+form input{
+	border-radius: 5px;
+}
+
+.heading h1{
+	display: inline-block;
+	margin-left: 100px;
+	margin-top: 60px;
+	color: white;
+	text-shadow: 2px 1.5px 2px gray;
+}
+.line{
+	width: 100px;
+	border: 1px solid gray;
+	margin-left: 165px;
+	margin-top: 15px;
+}
+.form1{
+	margin-left:55px;
+	margin-top: 50px;
+	display: inline-block;
+
+}
+.form1 input{
+	margin-left: 10px;
+}
+.form2{
+	margin-left:55px;
+	margin-top: 21px;
+}
+.form2 input{
+	margin-left: 7px;
+}
+.form3{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.fomr3 input{
+	margin-left: 7px;
+}
+.form4{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form4 input{
+	margin-left: 7px;
+}
+.form5{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.fomr5 input{
+	margin-left: 7px;
+}
+.form6{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form6 input{
+	margin-left: 7px;
+}
+.form7{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form7 input{
+	margin-left: 7px;
+}
+.form8{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form8 input{
+	margin-left: 7px;
+}
+.form9{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form9 label{
+	margin-top: -50px;
+}
+.form9 textarea{
+	margin-left: 7px;
+
+}
+.form10{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form10 input{
+	margin-left: 7px;
+}
+.form11{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form11 input{
+	margin-left: 7px;
+}
+.form12{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form12 input{
+	margin-left: 7px;
+}
+.form13{
+	margin-left: 114px;
+	margin-top: -23px;
+}
+.form13 input{
+	margin-left: 7px}
+
+
+
+@media all and (max-width:450px){
+	
+	#wrap{
+	width:450px;
+	height:800px;
+	background-color: #F1C66F;
+	
+}form{
+	margin-left: 50px;
+
+}
+form input{
+	border-radius: 5px;
+}
+
+.heading h1{
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 30px;
+	color: gray;
+	text-shadow: 2px 1.5px 2px white;
+}
+.line{
+	width: 100px;
+	border: 1px solid gray;
+	margin-left: 115px;
+	margin-top: 15px;
+}
+.form1{
+	margin-left:55px;
+	margin-top: 30px;
+	display: inline-block;
+
+}
+.form1 input{
+	margin-left: 10px;
+}
+.form2{
+	margin-left:55px;
+	margin-top: 21px;
+}
+.form2 input{
+	margin-left: 7px;
+}
+.form3{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.fomr3 input{
+	margin-left: 7px;
+}
+.form4{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form4 input{
+	margin-left: 7px;
+}
+.form5{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.fomr5 input{
+	margin-left: 7px;
+}
+.form6{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form6 input{
+	margin-left: 7px;
+}
+.form7{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form7 input{
+	margin-left: 7px;
+}
+.form8{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form8 input{
+	margin-left: 7px;
+}
+.form9{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form9 label{
+	margin-top: -50px;
+}
+.form9 textarea{
+	margin-left: 7px;
+
+}
+.form10{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form10 input{
+	margin-left: 7px;
+}
+.form11{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form11 input{
+	margin-left: 7px;
+}
+.form12{
+	margin-left: 55px;
+	margin-top: 21px;
+}
+.form12 input{
+	margin-left: 7px;
+}
+.form13{
+	margin-left: 114px;
+	margin-top: -23px;
+}
+.form13 input{
+	margin-left: 7px}
+
+	
+}
